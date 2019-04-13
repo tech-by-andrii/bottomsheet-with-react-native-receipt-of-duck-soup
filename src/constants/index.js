@@ -1,0 +1,1 @@
+export DEVICE from './device'
