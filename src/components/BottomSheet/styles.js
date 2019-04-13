@@ -42,7 +42,7 @@ export default StyleSheet.create({
     position: 'absolute',
 
     justifyContent: 'center',
-    alignItems: 'center'
+    alignItems: 'center',
   },
   pullItem: {
     width: 40,
@@ -54,9 +54,9 @@ export default StyleSheet.create({
   },
 
   content: {
-    marginVertical: 20,
+    marginVertical: 30,
     paddingHorizontal: 10,
 
-    height: '100%'
+    height: '100%',
   }
 })
