@@ -54,7 +54,9 @@ export default StyleSheet.create({
   },
 
   content: {
-    marginVertical: 50,
+    marginVertical: 20,
     paddingHorizontal: 10,
+
+    height: '100%'
   }
 })

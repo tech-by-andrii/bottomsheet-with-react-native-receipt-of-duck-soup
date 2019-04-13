@@ -8,6 +8,6 @@ export default StyleSheet.create({
   },
   text: {
     textAlign: 'center',
-    fontSize: FONT_SIZE.H1,
+    fontSize: FONT_SIZE.H1
   }
 })
